@@ -147,7 +147,6 @@
 			<version>${mockk-jvm.version}</version>
 			<scope>test</scope>
 		</dependency>
-		
-	</dependencies>
+    </dependencies>
 	
 </project>
